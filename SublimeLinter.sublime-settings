@@ -17,6 +17,5 @@
             "show-code": true,
             "executable": ["/path/to/flake8"]
         }
-
     }
 }
