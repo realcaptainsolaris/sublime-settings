@@ -4,10 +4,12 @@ Settings für Sublime Text 3
 folgende Schemas und Plugins müssen installiert werden:
 
 Themes und Colors:  
+------------------
 Color Scheme Material Darker
 Theme Material Darker
 
 Plugins:  
+--------
 Sidebar Enhencements
 Djaneiro
 Anaconda
