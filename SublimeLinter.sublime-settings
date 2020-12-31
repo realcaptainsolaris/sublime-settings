@@ -5,10 +5,8 @@
 
         "flake8": {
             "@disable": false,
-            "args": [],
             "builtins": "",
             "excludes": [],
-            "executable": "",
             "args": ["--ignore=E501,W291,E221"],
             "jobs": "1",
             "max-complexity": -1,
