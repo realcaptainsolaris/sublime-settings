@@ -5,8 +5,10 @@
 
         "flake8": {
             "@disable": false,
+            "args": [],
             "builtins": "",
             "excludes": [],
+            "executable": "",
             "args": ["--ignore=E501,W291,E221"],
             "jobs": "1",
             "max-complexity": -1,
@@ -14,6 +16,15 @@
             "select": "",
             "show-code": true,
             "executable": ["/path/to/flake8"]
+        },
+        "mypy": {
+            "@disable": false,
+            "args": [
+                "--ignore-missing-imports",
+                "--silent-imports"
+            ],
+            "python": "path/to/python"
         }
+
     }
 }
