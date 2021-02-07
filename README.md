@@ -27,6 +27,11 @@ Damit SublimeLinter flake8 findet, muss flake8 installiert sein und der Pfad zu 
 unter Linux zum Beispiel mit whereis flake8  
 unter Windows C:\Python38\Scripts\flake8  
 
+mypy
+--------
+Installation:
+pip install mypy
+
 Kite  
 -----
 Installationsanweisungen finden sich hier:  
